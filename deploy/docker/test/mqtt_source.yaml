@@ -1,4 +1,0 @@
-#Global MQTT configurations
-default:
-  server: "tcp://127.0.0.1:1883"
-  test: [0,1]

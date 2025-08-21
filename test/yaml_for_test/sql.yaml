@@ -1,6 +1,0 @@
-sqlite_config:
-  url: sqlite:/tmp/test.db
-  lookup:
-    cache: true
-    cacheTtl: 600
-    cacheMissingKey: true

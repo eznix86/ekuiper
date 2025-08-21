@@ -1,4 +1,0 @@
-message Book {
-  required string name = 1;
-  required string author = 2;
-}
