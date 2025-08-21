@@ -3,6 +3,16 @@ entries:
   ekuiper:
   - apiVersion: v2
     appVersion: "1.11"
+    created: "2025-08-21T00:20:47.292528257Z"
+    description: A lightweight IoT edge analytic software
+    digest: 9f0eaf43daafe0e6e2f798f519c77843f120d6eec79a958b5b400af965b189a7
+    name: ekuiper
+    type: application
+    urls:
+    - https://github.com/eznix86/ekuiper/releases/download/ekuiper-1.3.5/ekuiper-1.3.5.tgz
+    version: 1.3.5
+  - apiVersion: v2
+    appVersion: "1.11"
     created: "2025-08-21T00:18:53.019987985Z"
     description: A lightweight IoT edge analytic software
     digest: 582e9b46bc6866993a7c177e2704c355e47b9568a6f3df9fdfc7df08a01bdeb5
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/eznix86/ekuiper/releases/download/ekuiper-1.3.4/ekuiper-1.3.4.tgz
     version: 1.3.4
-generated: "2025-08-21T00:18:53.019998525Z"
+generated: "2025-08-21T00:20:47.292537384Z"
